@@ -1,0 +1,5 @@
+{
+  "name": "DailyCalorie & Expense Tracker",
+  "description": "An iOS-style calendar application for tracking daily consumption, featuring a built-in calculator and AI-powered insights.",
+  "requestFramePermissions": []
+}
